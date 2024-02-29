@@ -1,5 +1,5 @@
 package com.cristopherdev.gittutorial
 
 fun main (){
-    println("hello Github v1")
+    println("hello Github v2")
 }
